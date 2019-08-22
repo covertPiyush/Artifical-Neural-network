@@ -1,3 +1,3 @@
 # Artifical-Neural-network
 
-A neural Netwotk from scratch
+A Neural Netwotk from scratch
